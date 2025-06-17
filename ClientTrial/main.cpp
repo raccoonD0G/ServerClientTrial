@@ -26,7 +26,7 @@ int main()
 	struct sockaddr_in ListenSockAddr;
 	memset(&ListenSockAddr, 0, sizeof(ListenSockAddr));
 	ListenSockAddr.sin_family = PF_INET;
-	ListenSockAddr.sin_addr.s_addr = inet_addr("127.0.0.1");
+	ListenSockAddr.sin_addr.s_addr = inet_addr("192.168.0.5");
 	ListenSockAddr.sin_port = htons(32000);
 
 	Result = connect(ListenSocket, (struct sockaddr*)&ListenSockAddr, sizeof(ListenSockAddr));
