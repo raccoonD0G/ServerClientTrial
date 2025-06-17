@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\ServerTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF921C29-82B8-4A43-A4EC-61292FD82CDB}|ServerTrial.vcxproj|D:\\GitHub\\ServerTrial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF921C29-82B8-4A43-A4EC-61292FD82CDB}|ServerTrial.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\ServerTrial\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\GitHub\\ServerTrial\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-17T01:38:42.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

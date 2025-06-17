@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\GitHub\ServerTrial\main.cpp(56,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerTrial.vcxproj -> D:\GitHub\ServerTrial\x64\Debug\ServerTrial.exe

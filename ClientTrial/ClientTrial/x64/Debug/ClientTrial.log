@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\GitHub\ClientTrial\main.cpp(48,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientTrial.vcxproj -> D:\GitHub\ClientTrial\x64\Debug\ClientTrial.exe
