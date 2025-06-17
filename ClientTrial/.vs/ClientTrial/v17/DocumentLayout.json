@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\ClientTrial\\",
+  "WorkspaceRootPath": "D:\\GitHub\\ServerClientTrial\\ClientTrial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DCDA250-AE87-4AD0-BB9A-CDAB07C0DAB3}|ClientTrial.vcxproj|D:\\GitHub\\ClientTrial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0DCDA250-AE87-4AD0-BB9A-CDAB07C0DAB3}|ClientTrial.vcxproj|D:\\GitHub\\ServerClientTrial\\ClientTrial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DCDA250-AE87-4AD0-BB9A-CDAB07C0DAB3}|ClientTrial.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\GitHub\\ClientTrial\\main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\ServerClientTrial\\ClientTrial\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\GitHub\\ClientTrial\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAsAAACAzczMzMwAwAsAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\GitHub\\ServerClientTrial\\ClientTrial\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAABAAAAAAmpmZmZkawB8AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T02:29:07.524Z",
               "EditorCaption": ""

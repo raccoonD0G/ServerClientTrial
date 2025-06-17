@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\GitHub\ClientTrial\x64\Debug\ClientTrial.exe</FullPath>
+      <FullPath>D:\GitHub\ServerClientTrial\ClientTrial\x64\Debug\ClientTrial.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
